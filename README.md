@@ -1,3 +1,8 @@
+## Software required
++ Java 17
++ Docker
+
+
 ## Build
 
 ```
